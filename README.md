@@ -14,10 +14,11 @@ Python must be installed.
 Run this command in terminal.  
 python half_hour_chime.py
 
-To run with a specific file
+To run with a specific file:
 python half_hour_chime.py mychime.wav
 
-To test playback imediately with file in folder or your specific file run with argument --test
+To test playback immediately with file in folder or your specific file run with argument --test
+
 Example: python half_hour_chime.py mychime.wav --test
 
 Terminal must stay open to continue to run.  ctrl+c to stop or kill the terminal.
