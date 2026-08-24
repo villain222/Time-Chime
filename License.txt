@@ -1,4 +1,5 @@
 # PolyForm Noncommercial License 1.0.0
+Copyright <2026> <William Stordeur (villain222)>
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
